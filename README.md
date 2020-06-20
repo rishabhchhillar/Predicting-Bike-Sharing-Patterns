@@ -60,6 +60,7 @@ In a model where all the weights are optimized, the more hidden nodes we have, t
 ## Authors
 
 * **Rishabh Chhillar**
+* **Udacity**
 
 ## License
 
